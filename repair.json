@@ -1,0 +1,9 @@
+{
+    "status": true,
+    "msg": "当前已是最新版本",
+    "version": "11.2.0",
+    "force": false,
+    "repair_list": [],
+    "repair_msg": "面板运行正常，暂无需要修复的项目"
+}
+

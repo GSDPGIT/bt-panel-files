@@ -1,0 +1,12 @@
+{
+    "version": "11.2.0",
+    "is_beta": 0,
+    "beta": 0,
+    "download_url": "https://raw.githubusercontent.com/GSDPGIT/bt-panel-files/main/LinuxPanel-11.2.0.zip",
+    "md5": "fc2c713a094e418f1d5e85bc4c15b16c",
+    "update_msg": "宝塔Linux面板 11.2.0 纯净版\n\n更新内容：\n- 已移除所有广告\n- 已移除统计追踪\n- GitHub自托管源\n- MD5完整性校验\n- 自主可控更新\n\n作者：Lee自用 - 仅供学习测试",
+    "force": false,
+    "date": "2025-10-28",
+    "title": "宝塔Linux面板 11.2.0 纯净版",
+    "msg_en": "BT Panel 11.2.0 Clean Edition - Self-hosted on GitHub"
+}
